@@ -4,8 +4,8 @@ public class Hello {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello OOP");
-
+		String lyrics = "Let it go!Let it go!cannot hold back anymore.";
+		System.out.println(lyrics);
 	}
 
 }
